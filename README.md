@@ -4,9 +4,12 @@
 
 - 🔥 Antechnology student always looking to learn, in CLOUD and data science
  
+
 - 🔭 I'm currently not working
 
+
 - 💬 Ask me about **ORACLE, PYTHON, SQL, Node.JS,**
+
 
 - ⚡ Fun fact **I'm a black belt  😜**
 
