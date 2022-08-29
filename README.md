@@ -8,7 +8,7 @@
 - 🔭 I'm currently not working
 
 
-- 💬 Ask me about **ORACLE, PYTHON, SQL, Node.JS,**
+- 💬 Ask me about **HTML,JAVASCRIPT, PYTHON, SQL, Node.JS,**
 
 
 - ⚡ Fun fact **I'm a black belt  😜**
