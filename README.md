@@ -3,13 +3,17 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Mateus Nascimento</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mateusnasciment&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Antechnology student always looking to learn, in CLOUD and **backend**
+ 
+ <image src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><image src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><image src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><image src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+ <image src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"><image src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"><image src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black">
+
+- 🔥 Technology student always looking to learn, in full stack and **Javascript**
  
 
 - 🔭 I'm currently not working
 
 
-- 💬 Ask me about **HTML,JAVASCRIPT, PYTHON, SQL, Node.JS,**
+- 💬 Ask me about 
 
 
 - ⚡ Fun fact **I'm a black belt  😜**
