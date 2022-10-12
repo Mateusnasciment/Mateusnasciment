@@ -13,12 +13,14 @@
 - 🔭 I'm currently not working
 
 
+
+- 🤝 I’m available for freelancing.
 - 💬 Ask me about 
 
 
 - ⚡ Fun fact **I'm a black belt  😜**
 
-
+- 📫 How to reach me: **mateus.nasciment@hotmail.com**
 
 
 
