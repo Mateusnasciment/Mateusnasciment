@@ -21,20 +21,14 @@
 - ⚡ Fun fact **I'm a black belt  😜**
 
 - 📫 How to reach me: **mateus.nasciment@hotmail.com**
+  <br/>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"/>Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"/> </h3>
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+</div>
 
+<div align="center">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/mateusnasciment/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
 
-
-## Contact
-
-<p align="left" style="background:yellow">
-<a href="https://www.linkedin.com/in/mateusnasciment/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/mateus.eron" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://portflio-mateus-mateusnasciment.vercel.app/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Portf%C3%B3lio-05122A?style=flat&logo=google" alta="Portfolio"/>
-</p>
 
 <!--
