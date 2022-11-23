@@ -8,11 +8,8 @@
  <image src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"><image src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"><image src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"><image src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 
 
-- 🔥 technology student always looking to learn, a Junior developer
+- 🔥 technology student always looking to learn, a  Full Stack
  
-
-- 🔭 I'm currently not working
-
 
 
 - 🤝 I’m available for freelancing.
