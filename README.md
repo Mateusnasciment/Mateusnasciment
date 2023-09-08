@@ -13,8 +13,8 @@
   </div>
 
   <!-- Informações adicionais -->
-  <p>🔥 technology student always looking to learn, a Full Stack</p>
-  <p>🤝 I’m available for freelancing.</p>
+
+  <p>🔥 I’m available for freelancing.</p>
   <p>💬 Ask me about</p>
 
   <!-- Link para o seu site/portfolio -->
